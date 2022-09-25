@@ -1,4 +1,4 @@
-# _TITLE_
+# _CoinCounter_
 
 #### By _**Alexander Kirkpatrick**_
 
@@ -25,13 +25,13 @@ _._
 
 * _Clone repository from Github and save a copy on own computer_
 
-* _Using GUI or terminal, open cloned project directory (titled 'UPDATE') to view files_
+* _Using GUI or terminal, open cloned project directory (titled 'CoinCounter') to view files_
 
 * _Using GUI or terminal, open index.html file to view project locally_
 
 * _Stylesheet, image, js file, and readme can also be opened from project home directory_
 
-* _(See Github page for this project](https://alexanderkirkpatrick.github.io/UPDATE/)_
+* _(See Github page for this project](https://alexanderkirkpatrick.github.io/CoinCounter/)_
 
 ## Known Bugs
 
@@ -41,4 +41,4 @@ _._
 
 MIT License
 
-Copyright (c) _June_2022_ _Alexander Kirkpatrick_
+Copyright (c) _Sept_2022_ _Alexander Kirkpatrick_
